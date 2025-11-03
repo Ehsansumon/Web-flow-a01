@@ -1,0 +1,214 @@
+.font {
+  background-image: url("/B12A01-landing-launchpad/Assets/Hero-bg.png");
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 60px;
+  padding-right: 60px;
+  color: #4f47ff;
+}
+
+.font0 {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+}
+.logo {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+
+.header {
+  text-align: center;
+  font-size: large;
+  padding: 90px;
+}
+.button,
+.button_2,
+.button_l {
+  background-color: #4f47ff;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 9px;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 120px;
+}
+
+.rightside {
+  width: 200px;
+  height: 150px;
+}
+
+.rightside_image {
+  border-radius: 30px;
+}
+.btn {
+  text-align: center;
+}
+.text {
+  text-align: left;
+  padding-left: 60px;
+}
+.bold {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bold {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 50px;
+}
+.simple {
+  padding-bottom: 0px;
+  padding-top: 0 px;
+}
+
+.users {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 250px;
+  padding-right: 250px;
+  background-color: #e5e7fe;
+}
+
+/* .productive_user , .h1container{
+    text-align: center;
+     background-color: #e5e7fe;
+     
+    
+    
+} */
+
+.first {
+  color: #4e47fe;
+}
+.feedback-card {
+  padding-left: 200px;
+}
+
+.picture {
+  display: flex;
+  align-items: center;
+}
+
+.feedbackcontainer {
+  display: flex;
+}
+.info {
+  padding-top: 0px;
+  padding-bottom: 30ox;
+}
+.h1container {
+  text-align: center;
+}
+
+.another_section {
+  padding-top: 80px;
+
+  text-align: center;
+}
+/* .{
+    border: 2px solid beige;
+} */
+
+.gbutton {
+  background-color: #4f47ff;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 9px;
+}
+
+.getbutton3 {
+  border: 2px solid black;
+  background-color: #4f47ff;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 9px;
+}
+
+.bigimage {
+  border-radius: 30px;
+}
+
+.form {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  padding-left: 150px;
+  padding-right: 90px;
+  padding-top: 120px;
+}
+.textform {
+  font-size: 40px;
+}
+
+.logo_footer {
+  padding-top: 20px;
+  font-size: 90px;
+  /* text-align: center; */
+  color: #4e47fe;
+}
+.paragraph_footer h4 {
+  font-size: 10px;
+  color: #cacae1;
+  /* text-align: center; */
+  padding-bottom: 60px;
+  padding-right: 60px;
+}
+
+.linkfooterp {
+  font-weight: 400px;
+
+  display: flex;
+  font-size: 30%;
+  justify-content: center;
+  gap: 10px;
+}
+
+.linkfooterp a {
+  text-decoration: none;
+  font-size: 10px;
+  color: #cacae1;
+}
+
+.footer {
+  text-align: center;
+}
+
+input[type="text"] {
+  width: 100%;
+  padding: 10px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
